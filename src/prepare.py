@@ -6,7 +6,8 @@ from more_itertools import divide, flatten
 from tap import Tap
 from tqdm import tqdm
 
-import src.utils as utils
+# import src.utils as utils
+import utils
 
 
 class Args(Tap):
